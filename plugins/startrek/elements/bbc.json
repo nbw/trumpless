@@ -1,0 +1,8 @@
+{ 
+    "elements": [   
+                    ".media-list__item",
+                    ".sparrow-item", 
+                    "ul.top-list__list li", 
+                    ".buzzard-item"
+                ]
+}
