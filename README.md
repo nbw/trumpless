@@ -26,7 +26,7 @@ Available in the chrome store now! Check it out here: <a href="https://chrome.go
 <h2>Star Trek Edition</h2>
 Available in the chrome store now! Check it out here: <a href="https://chrome.google.com/webstore/detail/trumpless-star-trek-editi/hgedajpdobgalcphbaboefngkeipdhik"> Trumpless: Star Trek Edition</a>
 
-Screenshots:
+<h1>Screenshots:</h1>
 ![first screenshot](/screenshots/ss2.jpg?raw=true)
 ![second screenshot](/screenshots/ss1.jpg?raw=true)
 ![third screenshot](/screenshots/trek_ss1.jpg?raw=true)
