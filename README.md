@@ -23,6 +23,10 @@ Otherwise to install the developer version:
 <h2>Fruit Edition</h2>
 Available in the chrome store now! Check it out here: <a href="https://chrome.google.com/webstore/detail/trumpless-fruit-edition/blnmhfkeplhbhlgmchnlilgapfcdhpfb"> Trumpless: Fruit Edition</a>
 
+<h2>Star Trek Edition</h2>
+Available in the chrome store now! Check it out here: <a href="https://chrome.google.com/webstore/detail/trumpless-star-trek-editi/hgedajpdobgalcphbaboefngkeipdhik"> Trumpless: Star Trek Edition</a>
+
 Screenshots:
 ![first screenshot](/screenshots/ss2.jpg?raw=true)
 ![second screenshot](/screenshots/ss1.jpg?raw=true)
+![third screenshot](/screenshots/trek_ss1.jpg?raw=true)
